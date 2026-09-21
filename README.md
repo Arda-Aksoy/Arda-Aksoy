@@ -22,36 +22,9 @@ Hardware is where I want to end up: robotics, automation, systems that react to 
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ▍Now
-
-`C` and `Python` fundamentals — data structures, memory, and how the pieces fit together
-
-Coursework in maths and electronics, the layer underneath everything embedded
-
-Writing algorithms by hand before reaching for a library that already has them
-
-Currently losing to pointers, which stop being intuitive about an hour in
-
-</td>
-<td width="50%" valign="top">
-
-### ▍Next
-
-**Embedded systems** — microcontrollers, sensors, the protocols between them
-
-**Robotics & automation** — control systems, hardware that reacts
-
-**AI & data** — the piece that turns sensor readings into decisions
-
-None of it works without the fundamentals, which is why they take all of my time now
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="assets/now-next.svg" width="100%" alt="Now: fundamentals, coursework, practice. Next: embedded systems, robotics, AI and data.">
+</div>
 
 <br>
 
@@ -73,7 +46,12 @@ Short list on purpose — things get added once I have actually built something 
 
 ## ▍Roadmap
 
-The account is new, so the repositories are still on their way!
+The account is new, so the repositories are still on their way:
+
+- [ ] A first project in C — small but finished, running end to end
+- [ ] Data structures in C, implemented by hand and documented properly
+- [ ] A Python script that solves an actual annoyance of mine
+- [ ] First microcontroller project, once coursework puts hardware in my hands
 
 <br>
 
@@ -89,3 +67,4 @@ The account is new, so the repositories are still on their way!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" alt="">
 
 </div>
+
