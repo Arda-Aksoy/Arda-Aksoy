@@ -73,12 +73,7 @@ Short list on purpose — things get added once I have actually built something 
 
 ## ▍Roadmap
 
-The account is new, so the repositories are still on their way:
-
-- [ ] A first project in C — small but finished, running end to end
-- [ ] Data structures in C, implemented by hand and documented properly
-- [ ] A Python script that solves an actual annoyance of mine
-- [ ] First microcontroller project, once coursework puts hardware in my hands
+The account is new, so the repositories are still on their way!
 
 <br>
 
