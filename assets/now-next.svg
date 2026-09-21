@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Now and Next">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#11161d"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#BC8CFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#BC8CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .lbl  { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; font-size: 15.5px; font-weight: 600; fill: #e6edf3; }
+    .desc { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #8b949e; }
+    .hdr  { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 2.5px; }
+  </style>
+
+  <rect x="1" y="1" width="898" height="348" rx="16" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <rect x="120" y="1" width="660" height="2" fill="url(#topline)"/>
+  <rect x="450" y="58" width="1" height="250" fill="url(#divider)"/>
+
+  <rect x="48" y="46" width="3" height="16" rx="1.5" fill="#58A6FF"/>
+  <text class="hdr" x="62" y="59" fill="#58A6FF">NOW</text>
+
+  <text class="lbl"  x="48" y="110">Fundamentals</text>
+  <text class="desc" x="48" y="131">data structures, memory, pointers in C</text>
+  <text class="lbl"  x="48" y="168">Coursework</text>
+  <text class="desc" x="48" y="189">maths, electronics, digital logic</text>
+  <text class="lbl"  x="48" y="226">Practice</text>
+  <text class="desc" x="48" y="247">algorithms written by hand, not imported</text>
+  <text class="lbl"  x="48" y="284">Losing to</text>
+  <text class="desc" x="48" y="305">pointer arithmetic, about an hour in</text>
+
+  <rect x="498" y="46" width="3" height="16" rx="1.5" fill="#BC8CFF"/>
+  <text class="hdr" x="512" y="59" fill="#BC8CFF">NEXT</text>
+
+  <text class="lbl"  x="498" y="110">Embedded systems</text>
+  <text class="desc" x="498" y="131">microcontrollers, sensors, protocols</text>
+  <text class="lbl"  x="498" y="168">Robotics &amp; automation</text>
+  <text class="desc" x="498" y="189">control systems, hardware that reacts</text>
+  <text class="lbl"  x="498" y="226">AI &amp; data</text>
+  <text class="desc" x="498" y="247">sensor readings turned into decisions</text>
+  <text class="lbl"  x="498" y="284">Then</text>
+  <text class="desc" x="498" y="305">one project that needs all three at once</text>
+</svg>
