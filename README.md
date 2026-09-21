@@ -1,45 +1,67 @@
-<h1 align="center">Hi, I'm Arda</h1>
+<h1 align="center">Arda Aksoy</h1>
 
 <p align="center">
-  Digital Engineering student at <b>Hochschule München</b> — currently in my 2nd year.<br>
-  I build small things in <b>Python</b> and <b>C</b>, mostly to understand how they break.
+  Digital Engineering · Hochschule München · second year
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Munich-Germany-2b3137?style=flat-square" alt="Munich, Germany">
+  <img src="https://img.shields.io/badge/Learning-C_%26_Python-00599C?style=flat-square" alt="Learning C and Python">
+  <img src="https://img.shields.io/badge/Heading_toward-embedded_%26_robotics-3776AB?style=flat-square" alt="Heading toward embedded and robotics">
 </p>
 
 ---
 
-### About me
+Second-year Digital Engineering student in Munich. Right now that means fundamentals:
+**C**, **Python**, and the groundwork that embedded systems sit on.
 
-- Studying **Digital Engineering** @ Hochschule München (HM), Munich, Germany
-- Working mainly with **Python** and **C**
-- Currently learning: data structures, embedded basics, and writing code that other people can actually read
-- This profile is new — repositories are on the way as coursework and side projects land here
-- Reach me: [ardaaksoy0065@gmail.com](mailto:ardaaksoy0065@gmail.com)
+Hardware is where I want to end up — robotics, automation, systems that react to the
+world. I would rather learn that from the bottom up than claim it early, so for now
+the work is smaller and closer to the ground.
 
-### Tech
+## On the bench
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| | |
+| --- | --- |
+| **Learning** | C and Python — data structures, memory, how the pieces actually fit together |
+| **Studying** | Digital Engineering coursework: the maths and electronics underneath embedded systems |
+| **Practising** | Writing algorithms by hand before reaching for a library that already has them |
+| **Wrestling with** | Pointers and memory in C, which stop being intuitive roughly one hour in |
 
-### GitHub
+## Toolbox
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arda-Aksoy&show_icons=true&hide_border=true&theme=github_dark">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Arda-Aksoy&show_icons=true&hide_border=true&theme=default" alt="Arda's GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Aksoy&layout=compact&hide_border=true&theme=github_dark">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Aksoy&layout=compact&hide_border=true&theme=default" alt="Top languages">
-  </picture>
-</p>
+| | |
+| --- | --- |
+| **Languages** | `C` · `Python` |
+| **Environment** | `git` · `Linux` · `VS Code` |
+| **Spoken** | Turkish (native) · German (B2–C1) · English (B2) |
+
+Short list on purpose. Things get added here once I have actually built something with them.
+
+## Where this is going
+
+The part I care about is the layer where software stops being abstract and starts
+moving something physical: **embedded systems** first, then **robotics and automation**,
+with **data and machine learning** as the piece that turns sensor readings into decisions.
+
+None of that works without the fundamentals, which is why they take all of my time now.
+
+## Log
+
+The account is new, so the repositories are still on their way:
+
+- [ ] A first project in C, small but finished — running end to end, not half-abandoned
+- [ ] Data structures in C, implemented by hand and documented properly
+- [ ] A Python script that solves an actual annoyance of mine
+- [ ] First microcontroller project, once coursework puts hardware in my hands
 
 ---
 
 <p align="center">
   <a href="mailto:ardaaksoy0065@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Arda-Aksoy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
